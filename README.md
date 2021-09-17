@@ -1,2 +1,1 @@
-# Sharaga
-python
+eto moi pervyi proekt na paitone
